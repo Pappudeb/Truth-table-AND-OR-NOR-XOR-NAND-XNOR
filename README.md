@@ -1,0 +1,1 @@
+# Truth-table-AND-OR-NOR-XOR-NAND-XNOR
